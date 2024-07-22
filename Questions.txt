@@ -1,0 +1,32 @@
+Question 1:
+Define a list of decimal numbers as a string and set them randomly and manually. (that is, the values ​​of the list should be strings, not numbers, the contents of the string should be numbers, and at least 5 string numbers)
+Using the while or for enumeration loop and defining an empty list of decimal numbers, convert the values ​​of the previous list into numbers and add them to the new list.
+Define an empty list of strings and use loop and for in to round the values ​​of the decimal list and convert them to natural number type and then add a string to the new list as a string and finally the values ​​of the final list in a linear Print separately
+***********
+Question 2:
+Define a list of decimal and whole numbers and manually and randomly assign 10 decimal and whole numbers.
+Define a function to calculate power of 2 and function of power of 3.
+If the numbers in the list are correct, print the power of 2, and if they are decimal, print the power of 3 with 1 decimal place in the output.
+The output should be like this:
+3 is int, power 2 is 9
+2.2 is double, power 3 is 10.6
+***********
+Question 3:
+Dart is an approachable, portable, and productive language for high-quality apps on any platform.
+Assign the above text to a constant variable. Find the 3-letter words and print the text so that the 3-letter words are written in capital letters.
+Hint: Use functions of string and list classes.
+***********
+Question 4:
+Dart was unveiled at the GOTO conference in Aarhus, Denmark, October Lars Bak and Kasper Lund founded the project Dart was released in November, Dart had a mixed reception at first. Some criticized the Dart initiative for fragmenting the web because of plans to include a Dart VM in Chrome. Those plans were dropped in with the Dart release. Focus changed to compiling Dart code to JavaScript.
+
+Define the above text in a constant variable and count the number of words with different number of letters using map, which means how many 1-letter words, how many 2-letter words and...
+In the output, print the obtained information like this:
+1 letter(s): 2
+2 letter(s): 5
+...
+***********
+Question 5:
+Write a function to calculate the NM number of the sequence of Fibonacci numbers.
+The input function searches for the number from the terminal and uses it to print the nth input from the user by printing the appropriate text and print the nth number of the sequence.
+
+Challenge: If you enter large numbers and test the program, the calculation becomes long. Increase the calculation speed by using map.
