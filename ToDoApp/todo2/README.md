@@ -1,6 +1,6 @@
-# todo2
+# ToDo app
 
-A new Flutter project.
+A new Flutter project to organize your daily tasks :)
 
 ## Getting Started
 
